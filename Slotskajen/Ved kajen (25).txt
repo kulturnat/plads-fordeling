@@ -1,0 +1,25 @@
+? A    Hærhjemmeværnet - Marinehjemmeværnet
+? B    Hærhjemmeværnet - Marinehjemmeværnet
+
+? 1    Hærhjemmeværnet - Marinehjemmeværnet
+? 2    Hærhjemmeværnet - Marinehjemmeværnet
+? 3    Hærhjemmeværnet - Marinehjemmeværnet
+? 4    Hærhjemmeværnet - Marinehjemmeværnet
+? 5    Hærhjemmeværnet - Marinehjemmeværnet
+? 6    Hærhjemmeværnet - Marinehjemmeværnet
+? 7    Hærhjemmeværnet - Marinehjemmeværnet
+? 8    Hærhjemmeværnet - Marinehjemmeværnet
+? 9    Natteravnene
+? 10   Tandslet Friskole
+? 11   Tandslet Friskole
+? 12   TUBA
+? 13   Stenklubben Als
+? 14   Stenklubben Als
+? 15   Broager Rideklub
+? 16   CrossFit Sønderborg
+? 17   CrossFit Sønderborg
+? 18   De Tyske Foreninger
+? 19   De Tyske Foreninger
+? 20   De Tyske Foreninger
+? 21   Røde Kors
+? 22   Røde Kors
